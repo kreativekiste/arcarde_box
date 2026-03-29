@@ -1,6 +1,9 @@
-//arcadebox
-// www.kreativekiste.de
-// V 3.7 03.2026
+// ############################################################
+// # PROJECT: ARCADE AUTOMAT V1.73                            #
+// # AUTHOR:  [Ronnie Berzins / Kreativekiste.de]             #
+// # TECH-SUPPORT: Erstellt in Zusammenarbeit mit Gemini AI   #
+// # DATE:    29.03.2026                                      #
+// ############################################################
 
 
 #include <SPI.h>
