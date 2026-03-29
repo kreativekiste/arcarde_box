@@ -36,3 +36,6 @@ Das Projekt nutzt eine modulare Struktur, um den Code übersichtlich zu halten:
 
 ## 📜 Lizenz
 Dieses Projekt ist unter der MIT-Lizenz lizenziert.
+
+Credits & Entwicklung
+Dieses Projekt wurde von kreativekiste.de konzipiert und gebaut. Die komplexe Software-Architektur und das Debugging der Spiele-Logik entstanden im interaktiven Dialog mit Gemini AI. Ein Beweis dafür, wie Mensch und KI gemeinsam beeindruckende Hardware-Projekte realisieren können.
